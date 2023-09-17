@@ -26,7 +26,7 @@ The Quiz App is an engaging platform that tests users' knowledge on a wide range
 To access and enjoy the Quiz App, simply visit [Quiz](https://quiz-app-alpha-ebon.vercel.app/). Alternatively, if you'd like to contribute or run the app locally on your machine, you can clone this repository and follow the instructions below:
 
 ```bash
-git clone [repository URL]
-cd [repository directory]
+git clone https://github.com/Priyanshu0713/React-Quiz-App.git
+cd React-Quiz-App
 npm install
 npm start
