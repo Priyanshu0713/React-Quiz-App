@@ -20,11 +20,10 @@ The Quiz App is an engaging platform that tests users' knowledge on a wide range
 - CSS
 - JavaScript
 - Reactjs
-- [Add any other technologies or libraries used]
 
 ## Getting Started
 
-To access and enjoy the Quiz App, simply visit [insert quiz app URL]. Alternatively, if you'd like to contribute or run the app locally on your machine, you can clone this repository and follow the instructions below:
+To access and enjoy the Quiz App, simply visit [Qiiz](https://quiz-app-alpha-ebon.vercel.app/). Alternatively, if you'd like to contribute or run the app locally on your machine, you can clone this repository and follow the instructions below:
 
 ```bash
 git clone [repository URL]
